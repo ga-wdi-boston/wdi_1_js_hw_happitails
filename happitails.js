@@ -79,7 +79,7 @@ var shelterData = {
 
             ]
         }, {
-            name: "Vincenzo Gaunt"
+            name: "Vincenzo Gaunt",
             age: 27,
             pets: [{
                     name: 'Fido',
@@ -137,3 +137,5 @@ var shelterData = {
 
     ],
 }
+
+
